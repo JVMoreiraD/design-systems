@@ -1,0 +1,2 @@
+import{B as t}from"./Button.0c2f75b2.js";import"./clsx.m.256e9345.js";import"./index.module.ee233a67.js";import"./index.ba373845.js";import"./iframe.4f8d1199.js";import"./jsx-runtime.a5410bf8.js";const m={title:"Components/Button",component:t,args:{children:"Lorem Ipsun"},argTypes:{}},i={},a=["Default"];export{i as Default,a as __namedExportsOrder,m as default};
+//# sourceMappingURL=Button.stories.8e9acc83.js.map
